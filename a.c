@@ -1,9 +1,9 @@
 #include <stdio.h>
-int main(){
-    int num1;
-    int num2;
-    printf("Ingrese el primer digito:\n");
-    scanf("%d", &num1);
+#include <stdlib.h>
+
+int main (){
+    printf ("Hello world");
+    system("Pause");  
     return 0;
+    }
     
-}
